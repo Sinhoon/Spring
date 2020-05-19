@@ -2,13 +2,12 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>result</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<img src= "/data/user/1.jpg">
+<P>  image:  ${imgpath}. </P>
+
 </body>
 </html>
